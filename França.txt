@@ -1,0 +1,8 @@
+Nova conversa iniciada! Como posso ajudar-lo?
+You: Hello
+Bot: Hello! 😊  How can I help you today? 
+
+You: Qual a capital de frança?
+Bot: The capital of France is **Paris**. 😊 
+
+
